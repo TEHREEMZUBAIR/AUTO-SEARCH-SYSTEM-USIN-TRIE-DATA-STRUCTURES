@@ -1,0 +1,183 @@
+Afghanistan
+Capital :Kabul
+Area :234132km^2
+Currency :Afghani
+Population :3423 million
+Languages :Pushto
+Albania
+Capital: Tirana
+Area:28,748km
+Currency: Albanian Lek
+Population: 2.812 million 
+language: Albanian
+Algeria
+Capital: Algiers 
+Area: 2.382 million km²
+Currency: Algerian Dinar
+Population: 44.62 million 
+languages: Arabic, Standard Algerian Berber
+Australia
+Capital: Canberra Trending
+Area: 7.688 million km²
+Currency: Australian dollar
+Population: 25.74 million 
+languages: English
+Austria
+Capital: Vienna
+Area:7.688 million km²
+Currency:Euro
+Population: 8.956 million (2021) World Bank
+language: German
+Bangladesh
+Capital: Dhaka
+Area: 7.688 million km²s
+Currency: Bangladeshi Taka
+Population: 166.3 million (2021) World Bank
+language: 
+Belgium
+Capital: Brussels
+Area: 234233km^2
+Currency:abcd
+Population: 11.59 million 
+languages: French, Dutch, German
+Bhutan
+Capital: Thimphu
+Area: 234234 km^2
+Currency:  Bhutanese Ngultrum, Indian Rupee
+Population: 779,900 
+language: Dzongkha
+Brazil
+Capital: Brasília Trending
+Area:3452453km^2
+Currency: abcd
+Population: 214 million 
+language: Portuguese
+Cambodia
+Capital: Phnom Penh
+Area: 14324km^2
+Currency: Cambodian riel
+Population: 16.95 million 
+language: Khmer
+Canada
+Capital: Ottawa
+Area: 23423km^2
+Currency: 
+Population: 38.25 million (2021) World Bank
+languages: French, English
+Chile
+Capital: Santiago
+Currency:
+Population: 19.21 million (2021) World Bank
+Continent: South America
+language: Spanish
+China
+Capital: Beijing
+Area: 9.597 million km²
+Currency: Yuan
+Population: 1.412 billion (2021) World Bank
+language: Mandarin
+Colombia
+Capital: Bogotá
+Currency: Colombian Peso
+Population: 51.27 million (2021) World Bank
+Continent: South America
+language: Spanish
+Congo
+Capital: Kinshasa
+Currency: Congolese Franc
+Population: 92.38 million (2021) World Bank
+Continent: Africa
+languages: French, Lingala, Swahili, Kongo, Luba-Kasai
+Denmark
+Capital: Copenhagen
+Continent: America
+Currency: 
+Population: 5.857 million (2021) World Bank
+language: Danish
+Ecuador
+Capital: Quito
+Currency: United States Dollar
+Population: 17.89 million (2021) World Bank
+Continent: South America
+language: Spanish
+Egypt
+Capital: Cairo
+Population:
+Currency: Egyptian Pound
+Continent: Africa, Asia
+language: Arabic
+
+Ethiopia
+Capital: Addis Ababa
+Population: 117.9 million 
+Currency: Ethiopian Birr
+Continent: Africa
+languages: Amharic, Somali, Oromo, Tigrigna, Afar
+Finland
+Capital: Helsinki
+Currency: Euro, Finnish Markka, Swedish riksdaler
+President: Sauli Niinistö
+Population: 5.542 million 
+languages: Finnish, Swedish
+France
+Capital: Paris
+Population: 67.5 million
+Curency: Franc
+Language: French
+Continent: Europe
+Georgia
+Capital: Atlanta
+Currency: Georgian lari
+Population: 10.8 million
+language: Georgian
+Continent: Europe, Asia
+Germany
+Capital: Berlin
+Currency: Euro
+Continent: Europe
+Population: 83.13 million (2021) World Bank
+language: German
+Holland
+Capital: Amsterdam
+Currency: Guilders
+Continent: Europe
+Population: 17.53 million (2021) World Bank
+language: Dutch
+Hungary
+Capital: Budapest
+Currency: Hungarian Forint
+Continent: Europe
+Population: 9.71 million (2021) World Bank
+language: Hungarian
+India
+Capital: New Delhi
+Currency: Rupee
+Continent: Asia
+Area: 3.287 million km²
+Population: 1.393 billion (2021) World Bank
+Italy
+Capital: Rome
+Continent: Europe
+Currency: Italian lira
+Prime minister: Giorgia Meloni
+language: Italian
+Japan
+Kazakhstan
+Kenya
+Malaysia
+Maldives
+Nicaragua
+Niger
+Nigeria
+Turkey
+Capital :Istanbul
+Area:783,562 km^2
+Currency :Lira
+Population :85.04 million (2021)
+Languages :Turkish.
+Zimbabwe
+Capital :Harare
+Area :2354km^2
+Currency :US Dollar
+Population :2344 million
+Languages :English

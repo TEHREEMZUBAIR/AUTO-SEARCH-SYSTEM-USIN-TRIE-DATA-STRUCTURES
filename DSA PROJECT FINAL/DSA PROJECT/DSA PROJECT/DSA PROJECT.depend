@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1671545860 source:c:\users\hp\desktop\dsa project\main.cpp
+	<iostream>
+	"Admin.h"
+
+1671551144 c:\users\hp\desktop\dsa project\include\admin.h
+	<iostream>
+	<string.h>
+
+1671551663 source:c:\users\hp\desktop\dsa project\src\admin.cpp
+	"Admin.h"
+	<fstream>
+	<iostream>
+	<string.h>
+
+1671600981 source:c:\users\kisaa\downloads\dsa project\dsa project\main.cpp
+	<iostream>
+	"Admin.h"
+	"User.h"
+
+1671551146 c:\users\kisaa\downloads\dsa project\dsa project\include\admin.h
+	<iostream>
+	<string.h>
+
+1671600713 source:c:\users\kisaa\downloads\dsa project\dsa project\src\admin.cpp
+	"Admin.h"
+	<fstream>
+	<iostream>
+	<string.h>
+
+1671604014 source:c:\users\kisaa\downloads\dsa project\dsa project\src\user.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+	"User.h"
+
+1671599560 c:\users\kisaa\downloads\dsa project\dsa project\include\user.h
+	<iostream>
+	<string.h>
+
+1672599517 source:c:\users\hp\desktop\dsa project\dsa project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Admin.h"
+	"User.h"
+
+1672596332 c:\users\hp\desktop\dsa project\dsa project\include\admin.h
+	<iostream>
+	<string.h>
+
+1672596567 c:\users\hp\desktop\dsa project\dsa project\include\user.h
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+
+1672596618 source:c:\users\hp\desktop\dsa project\dsa project\src\admin.cpp
+	"Admin.h"
+	<fstream>
+	<iostream>
+	<string.h>
+	<algorithm>
+
+1672596821 source:c:\users\hp\desktop\dsa project\dsa project\src\user.cpp
+	<fstream>
+	<bits/stdc++.h>
+	<iostream>
+	<string.h>
+	"User.h"
+
